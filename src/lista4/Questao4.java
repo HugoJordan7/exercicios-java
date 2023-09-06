@@ -4,9 +4,9 @@ import java.util.Scanner;
 public class Questao4 {
 	public static Scanner scanner = new Scanner(System.in);
 	public static Scanner scannerText = new Scanner(System.in);
+	public static Filme[] filmes = new Filme[3];
 	
-	public static void main(String[] args) {
-		Filme[] filmes = new Filme[3];
+	public static void lerFilmes() {
 		System.out.println("- Informe os dados de 3 filmes diferentes -");
 		for(int i = 0; i<3; i++) {
 			filmes[i] = new Filme();
@@ -20,7 +20,9 @@ public class Questao4 {
 			System.out.print("Preço: ");
 			filmes[i].preco = scanner.nextDouble();
 		}
-		
+	}
+	
+	public static void imprimirFilmes() {
 		System.out.println("\n\n- Dados dos filmes registrados -");
 		for(int i = 0; i<3; i++) {
 			System.out.println("\n	" + (i+1) + "º Filme: ");
@@ -29,6 +31,11 @@ public class Questao4 {
 			System.out.println("Ano: " + filmes[i].ano);
 			System.out.printf("Preço: %.2f",filmes[i].preco);
 		}
+	}
+	
+	public static void main(String[] args) {
+		lerFilmes();
+		imprimirFilmes();
 	}
 
 }
