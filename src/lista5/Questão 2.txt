@@ -1,0 +1,7 @@
+2. Defina o conceito de Classe e Objeto. Qual a diferença entre eles?
+
+Um objeto é toda e qualquer coisa da realidade que pode ser simulada em um sistema e que possui atributos e métodos. Já uma classe é um molde de um objeto, logo um objeto é uma instância de uma classe.
+
+Exemplo: É possível fazer uma classe Bolo para a partir dela instânciar vários objetos com os atributos da classe em questão, se "material" é um atributo da classe Bolo, a partir dela é possível instânciar um objeto "Bolo boloDeMorango = new Bolo();" e neste objeto declarar o material como de morango (boloDeMorango.material = "morango") enquanto outro objeto instânciado a partir dessa classe pode possuir um material diferente, como por exemplo:
+Bolo boloDeChocolate = new Bolo();
+boloDeChocolate.material = "chocolate";

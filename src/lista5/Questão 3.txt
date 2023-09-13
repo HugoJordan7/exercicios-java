@@ -1,0 +1,24 @@
+3. Identifique classes e objetos para um sistema escolar responsável por controlar as turmas, professores, alunos e as notas dos alunos. Apresente em detalhes também que são os atributos e métodos de cada classe que você modelou.
+
+A classe Escola possui:
+
+- Atributos: listas com todas as turmas, professores e alunos da escola.
+
+- Métodos: Remover ou adicionar alunos a turmas, mover professores de uma turma para outra.
+
+o Atributo turmas da classe escola é uma lista de uma classe Turma:
+A classe Turma possui:
+
+- Atributos: Um código de identificação, uma lista de alunos da turma, uma lista de disiplinas da turma, e uma lista de professores para cada disciplina.
+
+- Métodos: Imprimir as informações de todos os alunos da turma, imprimir o nome de cada professor da turma com a materia que ele é encarregado.
+
+Além disso, os atributos professores e alunos da classe escola seriam listas das classes "Professor" e "Aluno" ambas herdam propriedades de uma classe Pessoa que possui:
+- Atributos: CPF, Idade, Nome, Sobrenome.
+
+Além dos atributos de Pessoa a classe Aluno possui:
+- Atributos: CRE, Notas em cada disciplina.
+
+E a classe Professor:
+- Atributos: Uma lista com o nome das turma em que ele é encarregado e uma lista de matérias que ele ministra.
+
