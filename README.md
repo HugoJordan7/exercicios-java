@@ -5,3 +5,4 @@
 * [**Lista 03:** Manipulação de strings](https://github.com/HugoJordan7/exercicios-java/tree/main/src/lista3)
 * [**Lista 04:** Funções, recursividade e registros](https://github.com/HugoJordan7/exercicios-java/tree/main/src/lista4)
 * [**Lista 05:** Introdução a Programação Orientada a Objetos (POO)](https://github.com/HugoJordan7/exercicios-java/tree/main/src/lista5)
+* [**Lista 06:** Getters e setters, construtores e relacionamentos](https://github.com/HugoJordan7/exercicios-java/tree/main/src/lista6)
