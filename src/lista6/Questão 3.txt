@@ -1,0 +1,8 @@
+3. Quais os tipos de relacionamento entre objetos? Explique cada um e exemplifique.
+Existem 3 diferentes tipos de relacionamento:
+
+1) Um para um, ocorre quando um objeto se ralaciona com apenas outro objeto, e esse segundo objeto apenas se ralaciona com o primeiro. Ex: Um objeto celular possui apenas um objeto processador.
+
+2) Um para muitos, ocorre quando um primeiro objeto se relaciona com vários outros. Ex: Um único objeto computador pode possuir vários objetos SSD.
+
+3) De muitos para muitos, ocorre quando vários objetos se relacionam com vários outros. Ex: Algumas escolas podem ter vários professores, bem como alguns professores podem dar aula em várias escolas.

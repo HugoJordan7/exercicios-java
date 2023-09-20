@@ -1,0 +1,3 @@
+1. Para que servem atributos e métodos?
+Os atributos servem para representar as propriedades e características que um determinado objeto da realidade pode ter dentro do programa.
+Já os métodos são todas as ações e comportamentos de um objeto que podem ser representadas no programa, eles podem servir para setar ou receber os valores dos atributos, além de poderem representar diversas outras ações próprias daquele objeto.
