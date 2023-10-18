@@ -1,0 +1,19 @@
+1. Observe os objetos a sua volta. Escolha um deles e descreva 5 características(atributos) e comporta-
+mentos(métodos).
+
+Objeto: Celular
+
+Atributos:
+- Marca
+- Volume do audio 
+- Versão do sistema
+- Câmera
+- Capa
+
+Métodos:
+- Ligar e desligar
+- Tirar foto
+- Adicionar ou retirar uma capa de proteção
+- Atualizar ou fazer downgrade de versão de sistema.
+- Aumentar ou diminuir volume do audio
+	

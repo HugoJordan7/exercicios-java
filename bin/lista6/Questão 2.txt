@@ -1,0 +1,2 @@
+2. O que é a troca de mensagens entre objetos?
+A troca de mensagens entre objetos é feita a partir do relacionamento entre um ou mais objetos, ela ocorre quando atributos e métodos de um objeto são acessados por outros métodos e atributos de outros objetos, criando desta forma um relacionamento.
