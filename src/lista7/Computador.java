@@ -1,7 +1,5 @@
 package lista7;
 
-import lista6.Memoria;
-
 public class Computador {
 	private Monitor monitor;
 	private Teclado teclado;

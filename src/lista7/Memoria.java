@@ -1,4 +1,4 @@
-package lista6;
+package lista7;
 
 public class Memoria {
 	private String tamanho;

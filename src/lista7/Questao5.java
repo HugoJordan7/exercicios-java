@@ -1,8 +1,6 @@
 package lista7;
 import java.util.Scanner;
 
-import lista6.Memoria;
-
 public class Questao5 {
 
 	public static Scanner scanner = new Scanner(System.in);
