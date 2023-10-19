@@ -1,0 +1,7 @@
+3. O que você entendeu sobre os relacionamentos de associação, agregação e composição?
+
+- Associação: É um tipo de relacionamento mais fraco que ocorre quando uma classe possui atributos de uma outra classe, embora ambas possam existir em contextos fora do relacionamento.
+
+- Agregação: É semelhante a associação e ocorre quando uma primeira classe possui atributos de várias classes distintas, onde as classes partes que compõe a primeira classe podem existir fora do contexto do relacionamento.
+
+- Composição: É um tipo de relacionamento mais robusto onde várias classes que compõe uma classe total não podem existir fora do contexto da composição.

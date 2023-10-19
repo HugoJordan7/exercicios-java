@@ -5,10 +5,6 @@ public class Pessoa {
 	private Data dataNasc;
 	private Endereco endereco;
 	private Contato contato;
-	
-	public String getNome() {
-		return nome;
-	}
 
 	public void setNome(String nome) {
 		this.nome = nome;

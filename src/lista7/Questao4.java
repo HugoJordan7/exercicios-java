@@ -3,9 +3,9 @@ import java.util.Scanner;
 
 public class Questao4 {
 
+	public static Scanner scanner = new Scanner(System.in);
+	public static Scanner scannerText = new Scanner(System.in);
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
-		Scanner scannerText = new Scanner(System.in);
 		Pessoa pessoa = new Pessoa();
 		System.out.println("- Informe os dados de uma pessoa -");
 		System.out.print("Nome: ");

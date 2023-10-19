@@ -1,0 +1,8 @@
+2. Quais são e para que servem os modificadores de acesso?
+
+Dentro do encapsulamento, os modificadores de acesso servem para definir o grau de visibilidade de cada atributo ou método dentro do programa, existem 4 tipos de modificadores:
+
+- default: Em Java, é declarado de forma implicita quando o modificador não é informado, ele indica que aquele atributo ou método pode ser visto apenas pelas classes dentro do pacote em que si encontra;
+- public: Pode ser visto por todos os pacotes dentro do projeto;
+- private: Pode ser visto apenas dentro da classe em questão;
+- protected: Pode ser visto apenas dentro da classe em questão e pelas classes que herdam a classe principal dentro do projeto.
