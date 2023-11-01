@@ -1,0 +1,3 @@
+3. O que é polimorfismo?
+
+Polimorfismo também é um dos 4 pilares da Programação Orientada a Objetos (POO) e ocorre quando uma subclasse que herda um determinado método de uma superclasse altera a forma do conteúdo do método sem alterar o seu nome, tornando o código mais flexível.

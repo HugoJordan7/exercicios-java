@@ -1,0 +1,9 @@
+4. Quais são os tipos de polimorfismo? Como eles funcionam?
+
+Existem dois tipos de polimorfismo:
+
+- Polimorfismo de sobreposição ou dinâmico:
+Ocorre quando uma subclasse que herda um método de uma superclasse modifica o conteúdo do método da superclasse sem alterar a assinatura do método, desta forma, o conteúdo do método da subclasse sobrepõe o conteúdo do método da superclasse.
+
+- Polimorfismo de sobrecarga ou estático:
+Ocorre quando uma subclasse possui diferentes formas de sobrepor o método herdado da superclasse em virtude da quantidade ou do tipo dos parâmetros do método.

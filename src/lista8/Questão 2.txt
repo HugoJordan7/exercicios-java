@@ -1,0 +1,2 @@
+2. Qual a diferença entre Herança simples e Herança múltipla?
+Uma herança simples ocorre quando uma superclasse pode possuir várias outras subclasses, mas estas subclasses apenas podem possuir uma única superclasse. Já a herança múltipla, ocorre quando subclasses podem possuir mais de uma superclasse e herdar atríbutos e métodos de todas elas, é menos utilizada pois nem toda linguagem que trabalha com o paradigma de POO possui suporte a mesma.
