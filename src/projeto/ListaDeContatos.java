@@ -1,12 +1,11 @@
 package projeto;
 
 public class ListaDeContatos {
-	//propriedades
+	
 	public Contato[] contatos;
 	public int tam;
 	public int indexAtual = 0;
 	
-	//metodos
 	public ListaDeContatos(int tam){
 		this.tam = tam;
 		contatos = new Contato[tam];
@@ -23,6 +22,10 @@ public class ListaDeContatos {
 	public void addContato(Contato contato) {
 		contatos[indexAtual] = contato;
 		indexAtual++;
+	}
+	
+	public Contato getContato(int index){
+		return contatos[index];
 	}
 	
 	public void removerContato(int index) {
