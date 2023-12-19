@@ -8,3 +8,5 @@
 * [**Lista 06:** Getters e setters, construtores e relacionamentos](https://github.com/HugoJordan7/exercicios-java/tree/main/src/lista6)
 * [**Lista 07:** Encapsulamento e tipos de relacionamentos entre classes](https://github.com/HugoJordan7/exercicios-java/tree/main/src/lista7)
 * [**Lista 08:** Herança e polimorfismo](https://github.com/HugoJordan7/exercicios-java/tree/main/src/lista8)
+
+* [**Projeto final da disciplina:** Utilizando todos os fundamentos vistos anteriormente](https://github.com/HugoJordan7/exercicios-java/tree/main/src/projeto)
